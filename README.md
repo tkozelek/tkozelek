@@ -1,6 +1,6 @@
 ### Tomáš Kozelek
 
-Backend PHP developer in Prague. Symfony and Doctrine at [MIRONET.CZ](https://www.mironet.cz), Laravel after hours. MSc in Applied Informatics, FRI UNIZA (2026).
+Backend PHP developer in Prague. At [MIRONET.CZ](https://www.mironet.cz), Laravel after hours. MSc in Applied Informatics, FRI UNIZA (2026).
 
 - **[Shift planning](https://github.com/tkozelek/cnmx_zmeny)**: the app about 30 cinema staff use to sign up for shifts. Laravel, Livewire.
 - **[Multi-seller pricing platform](https://github.com/tkozelek/tenant-app)**: my master's thesis. Laravel, Filament, REST API, Heureka XML feeds.
